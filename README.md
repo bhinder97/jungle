@@ -30,4 +30,10 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - PostgreSQL 9.x
 - Stripe
 
-##
+## Screenshots
+
+!["Screenshot of home page"](https://github.com/bhinder97/jungle/blob/master/docs/homepage.png?raw=true)
+!["Screenshot of empty cart"](https://github.com/bhinder97/jungle/blob/master/docs/empty-cart.png?raw=true)
+!["Screenshot of new categories"](https://github.com/bhinder97/jungle/blob/master/docs/new-categories.png?raw=true)
+!["Screenshot of sold out item"](https://github.com/bhinder97/jungle/blob/master/docs/sold-out.png?raw=true)
+!["Screenshot of admin login"](https://github.com/bhinder97/jungle/blob/master/docs/admin.png?raw=true)
